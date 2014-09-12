@@ -1,0 +1,23 @@
+I, [2014-09-12T10:28:35.871573 #3881]  INFO -- : Creating new todo item
+I, [2014-09-12T10:28:38.921221 #3885]  INFO -- : New todo item created: test
+D, [2014-09-12T10:28:39.500011 #3889] DEBUG -- : Calling the index page
+D, [2014-09-12T10:28:45.184950 #3901] DEBUG -- : Calling the index page
+D, [2014-09-12T10:28:49.028164 #3913] DEBUG -- : Calling the index page
+D, [2014-09-12T10:28:53.060126 #3928] DEBUG -- : Calling the index page
+D, [2014-09-12T10:28:56.615576 #3940] DEBUG -- : Calling the index page
+D, [2014-09-12T10:29:01.294415 #3953] DEBUG -- : Calling the index page
+D, [2014-09-12T10:29:05.738883 #3966] DEBUG -- : Calling the index page
+I, [2014-09-12T10:29:07.072884 #3970]  INFO -- : Creating new todo item
+I, [2014-09-12T10:29:12.558042 #3974]  INFO -- : New todo item created: Item 1
+D, [2014-09-12T10:29:13.210577 #3978] DEBUG -- : Calling the index page
+I, [2014-09-12T10:29:15.672437 #3982]  INFO -- : Creating new todo item
+I, [2014-09-12T10:29:20.416227 #3987]  INFO -- : New todo item created: Item 2
+D, [2014-09-12T10:29:20.931913 #3991] DEBUG -- : Calling the index page
+D, [2014-09-12T10:29:25.827748 #4003] DEBUG -- : Calling the index page
+I, [2014-09-12T10:29:28.856632 #4007]  INFO -- : Creating new todo item
+I, [2014-09-12T10:29:35.470460 #4012]  INFO -- : New todo item created: Item 3
+D, [2014-09-12T10:29:36.008716 #4016] DEBUG -- : Calling the index page
+I, [2014-09-12T10:29:37.973315 #4020]  INFO -- : Creating new todo item
+I, [2014-09-12T10:29:42.188436 #4024]  INFO -- : New todo item created: Item 4
+D, [2014-09-12T10:29:42.814733 #4028] DEBUG -- : Calling the index page
+D, [2014-09-12T10:29:51.322835 #4040] DEBUG -- : Calling the index page
