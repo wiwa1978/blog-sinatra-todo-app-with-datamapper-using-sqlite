@@ -1,3 +1,3 @@
 Sinatra Todo application with SQLite and Datamapper
 
-Found on http://www.wapptastic.com/sinatra-todo-app-with-datamapper-using-sqlite-step-1
+Found on http://blog.wimwauters.com/sinatra-todo-app-with-datamapper-using-sqlite-step-1/
